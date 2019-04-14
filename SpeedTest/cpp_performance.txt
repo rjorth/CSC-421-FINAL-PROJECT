@@ -1,0 +1,8 @@
+# Command: time ./square
+# "time" runs programs and summarize system resource usage
+
+4 * 4 = 16
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.004s

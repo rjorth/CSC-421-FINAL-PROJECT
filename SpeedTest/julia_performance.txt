@@ -1,0 +1,8 @@
+# Command: time julia square.jl
+# "time" runs programs and summarize system resource usage
+
+4 * 4 = 16
+
+real	0m1.298s
+user	0m0.639s
+sys	0m0.746s
