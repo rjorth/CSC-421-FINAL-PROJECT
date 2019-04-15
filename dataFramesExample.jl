@@ -16,5 +16,7 @@ showln(df)
 
 #write(f, show(df))
 
+#or just julia your-script.jl > log.txt 
+
 
 

@@ -1,0 +1,22 @@
+4×2 DataFrame
+│ Row │ studentID │ studentName │
+│     │ Int64     │ String      │
+├─────┼───────────┼─────────────┤
+│ 1   │ 1111      │ Jack        │
+│ 2   │ 2222      │ Jacky       │
+│ 3   │ 3333      │ Jackson     │
+│ 4   │ 4444      │ Jax         │4×2 DataFrame
+│ Row │ studentID │ course           │
+│     │ Int64     │ String           │
+├─────┼───────────┼──────────────────┤
+│ 1   │ 1111      │ Intro to CS      │
+│ 2   │ 2222      │ Intro to Physics │
+│ 3   │ 3333      │ Advanced CS      │
+│ 4   │ 4444      │ Advanced Physics │4×3 DataFrame
+│ Row │ studentID │ studentName │ course           │
+│     │ Int64     │ String      │ String           │
+├─────┼───────────┼─────────────┼──────────────────┤
+│ 1   │ 1111      │ Jack        │ Intro to CS      │
+│ 2   │ 2222      │ Jacky       │ Intro to Physics │
+│ 3   │ 3333      │ Jackson     │ Advanced CS      │
+│ 4   │ 4444      │ Jax         │ Advanced Physics │
