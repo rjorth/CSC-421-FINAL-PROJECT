@@ -1,8 +1,9 @@
-# Command: time ./square
-# "time" runs programs and summarize system resource usage
+# Command: time ./sum_squares
+# "time" runs programs an summarize system resource usage
 
-4 * 4 = 16
+Sum of 10,000 squares = 333383335000
 
-real	0m0.004s
-user	0m0.001s
-sys	0m0.004s
+real	0m0.005s
+user	0m0.005s
+sys		0m0.000s
+
