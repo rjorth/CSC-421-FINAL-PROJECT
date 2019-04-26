@@ -6,7 +6,7 @@ using QuadGK
 println("\nThe derivative of sin(x) :")
 println(differentiate("sin(x)", :x))
 
-println("\nTher derivative of 2 * x^2 :")
+println("\nThe derivative of 2 * x^2 :")
 println(differentiate("2x^2", :x))
 
 println("\nThe derivative of x * sin(x^2) + 1 :")

@@ -1,0 +1,4 @@
+Airplane: Airplane("747", "Boeing", 416.0)
+Airplane: Airplane("777", "Boeing", 396.0)
+Airports("Massachusetts", AbstractString[])
+Airports("New York", AbstractString["JFK International", "LaGuardia", "Albany International"])

@@ -1,0 +1,4 @@
+25
+5 * 5
+Hello, CSC-421
+(Main.println)("Hello, ", "CSC-421")

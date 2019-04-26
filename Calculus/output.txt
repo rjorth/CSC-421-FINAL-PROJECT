@@ -1,0 +1,12 @@
+
+The derivative of sin(x) :
+1 * cos(x)
+
+The derivative of 2 * x^2 :
+0 * x ^ 2 + 2 * (2 * 1 * x ^ (2 - 1))
+
+The derivative of x * sin(x^2) + 1 :
+1 * sin(x ^ 2) + x * ((2 * 1 * x ^ (2 - 1)) * cos(x ^ 2))
+
+The integral of 2/(1-x) from -1 to 0 :
+(1.3862943611198906, 3.986366792219087e-11)
